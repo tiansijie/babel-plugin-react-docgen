@@ -1,5 +1,7 @@
 # babel-plugin-react-docgen
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/storybooks/babel-plugin-react-docgen.svg)](https://greenkeeper.io/)
+
 [react-docgen](https://github.com/reactjs/react-docgen) allows you to write propType descriptions, class descriptions and access propType metadata programatically.
 
 This babel plugin allow you to access those information right inside your React class.
